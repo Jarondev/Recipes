@@ -13,24 +13,10 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Bread.md",
+                "file": "Lunch.md",
                 "mode": "source",
                 "source": false
               }
-            }
-          }
-        ]
-      },
-      {
-        "id": "b6653a2576fad6e6",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "24b788f2ba601334",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
             }
           }
         ]
@@ -99,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Bread.md",
+                "file": "Lunch.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Bread.md",
+                "file": "Lunch.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Bread.md"
+                "file": "Lunch.md"
               }
             }
           }
@@ -162,6 +148,6 @@
   },
   "active": "24cad13184f81bca",
   "lastOpenFiles": [
-    "Bread.md"
+    "Lunch.md"
   ]
 }
