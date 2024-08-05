@@ -9,7 +9,16 @@
 - [Kipfilet](https://www.ah.be/producten/product/wi462712/ah-roasted-kipfilet)
 - [Boerenkaas](https://www.ah.be/producten/product/wi239373/ah-kaas-vd-boerderij-jong-belegen-50-plak)
 
+# Pistolet
 ## Smos
-- [Pistolets](https://www.ah.be/producten/product/wi232390/ah-witte-pistolets)
+- [Pistolets](https://www.ah.be/producten/product/wi232389/ah-bruine-pistolets)
 - [Boerenkaas](https://www.ah.be/producten/product/wi239373/ah-kaas-vd-boerderij-jong-belegen-50-plak)
+- [Ham](https://www.ah.be/producten/product/wi197177/ah-flinterdunne-gegrilde-beenham)
+	-> andere mogelijk, kijk in winkel
+- [Tomaten](https://www.ah.be/producten/product/wi455430/ah-red-intense-nederlandse-trostomaten)
+- [Wortel](https://www.ah.be/producten/product/wi104817/ah-peen-julienne)
+- [Mayonnaise](https://www.ah.be/producten/product/wi519391/van-wijngaarden-s-zaanse-mayonaise)
+	-> andere proberen?
+
+# Bakker 1x per week -> ontbijtkoeken
 - 
